@@ -43,7 +43,8 @@ The project uses a Spotify dataset containing 227 music tracks. Each track inclu
 
 ## Installation and Setup
 1. Clone the repository:
-   - git clone   cd music_popularity_prediction
+   - git clone https://github.com/kritikaamohan/music_popularity_prediction/blob/4b840099171706b49676dd39c3dea354d55d0701/music_popularity_prediction.ipynb
+   - cd music_popularity_prediction
 2. Install Dependencies:
    - pip install
       - pandas, matplotlib, seaborn, scikit-learn
